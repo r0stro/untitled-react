@@ -1,0 +1,6 @@
+.wrap {
+    display: flex;
+}
+.wrap div {
+    margin: 15px 100px;
+}
